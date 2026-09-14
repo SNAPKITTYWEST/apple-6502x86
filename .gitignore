@@ -1,0 +1,8 @@
+*.o
+*.bin
+*.hex
+*.lst
+*.map
+_build/
+.idea/
+.vscode/
